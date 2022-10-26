@@ -233,4 +233,4 @@ if(command === "help") {
 }	
 })	
 
-bot.login("MTAyMDczMzkyMzUwNjAxMjE2MQ.GHgjDh.2JswLkU8XADa4JoZDqY0ixhBip_ldmBDdqN8fs");	
+bot.login("MTAyMDczMzkyMzUwNjAxMjE2MQ.GtpsPP.xYHRXeSIFg1XdZmCnzVgGIinO3z_W3XHeec7zU");	
